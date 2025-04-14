@@ -46,3 +46,4 @@ Run the application using the compiled binary (e.g., `./task-tracker`).
 
 **Note**: If no status is provided with `list`, all tasks are shown.
 
+Project Ideas : https://roadmap.sh/projects/task-tracker
