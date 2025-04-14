@@ -45,5 +45,3 @@ Run the application using the compiled binary (e.g., `./task-tracker`).
 | `list [todo\|in-progress\|done]`  | List tasks (optionally by status)        | `./task-tracker list done`                 |
 
 **Note**: If no status is provided with `list`, all tasks are shown.
-
-Project Ideas : https://roadmap.sh/projects/task-tracker
